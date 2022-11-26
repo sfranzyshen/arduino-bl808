@@ -4,5 +4,4 @@ This is community made Arduino Core for Bouffalo Labs RISC-V MCUs. The target is
 - [X] BL808
 # Supported Boards
 * PINE64 Ox64
-* Sipeed M1s
-* Sipeed M1s Dock
+* Sipeed MAIX M1s Dock
