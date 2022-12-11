@@ -1,1 +1,1 @@
-### Arduino core for Bouffalo Labs BL808 RISC-V MCUs.
+### Board Variants for Bouffalo Labs BL808 based RISC-V MCUs.
