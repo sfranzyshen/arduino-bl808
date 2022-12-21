@@ -1,1 +1,1 @@
-### Arduino Libraries for Bouffalo Labs BL808 RISC-V MCUs.
+### Arduino Libraries for Bouffalo Labs BL808 RISC-V SOCs.
