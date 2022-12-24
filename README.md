@@ -7,4 +7,5 @@ This is a community made Arduino Core specifically for the Bouffalo Labs BL808 R
 * [Sipeed MAIX M1s Dock](https://wiki.sipeed.com/hardware/en/maix/m1s/m1s_dock.html)
 * [Sipeed MAIX M1s Module](https://wiki.sipeed.com/hardware/en/maix/m1s/m1s_module.html)
 ### Status
-12/17/2022 - Received development boards and module
+12/17/2022 - Received development boards and module.
+12/24/2022 - We have postponed the initial development until further notice.
